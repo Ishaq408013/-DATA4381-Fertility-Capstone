@@ -1,3 +1,0 @@
-GitHub Repository: [PASTE YOUR GITHUB REPOSITORY URL HERE]
-
-Note: The repository contains our fully executed DATA4381 Capstone Project 1 notebook for analyzing regional differences in fertility rates using global health indicators from 2000–2024. The notebook includes data validation, exploratory analysis, preprocessing, baseline and machine-learning models, evaluation metrics, feature importance, and regional error analysis. All notebook outputs, plots, and evaluation results are saved and visible in GitHub.
